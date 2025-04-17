@@ -412,5 +412,9 @@ sns.set_theme(font='Malgun Gothic', rc={'axes.unicode_minus': False})
 
 - 최초 공식사이트 : https://pjreddie.com/darknet/yolo/
 - 2020년 파이토치 기반 변경(YOLOv5) : https://www.ultralytics.com/ko
+- 2025년 현재 v12(beta), v11(stable)
+
+- [노트북](./day08/mldl01_YOLO_start.ipynb)
 
 ### 코딩테스트
+- 코딩테스트
